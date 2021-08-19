@@ -2,9 +2,9 @@
 ## Introduction
 System is mainly to provide automation to the library. The categories of users provided are :
 
-Librarian: Can read view, search and modify the information about any member.
+Librarian: Can view, search issue and modify the information about any member.
 
-Student: Can view, search and open the account of membership of their own. 
+Student: Can view, search and open the membership account of their own. 
 
 ### SUB-MENU for Librarian:
 * View BookList
