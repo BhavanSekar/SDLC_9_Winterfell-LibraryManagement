@@ -21,7 +21,7 @@ System is mainly to provide automation to the library. The categories of users p
 * Go to main menu
 * Close Application
 
-## Cost and Features
+## Features of our system
 
 The main features of this application includes
 
