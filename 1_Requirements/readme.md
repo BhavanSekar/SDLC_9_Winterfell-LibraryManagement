@@ -22,5 +22,11 @@ System is mainly to provide automation to the library. The categories of users p
 * Close Application
 
 ## Defining our system
+
 The Library Management System is an application forassisting a librarian in managing a book library in a university. The system would provide basic set of features to add/update members, add/update books, and manage check in specifications for the systems based on the client’s statement of need.
+
+## CONCEPT USED:
+
+1.OOP Concept's like Inheritance, Encapsulation, and Polymorphism.
+2.File Handling.
 
