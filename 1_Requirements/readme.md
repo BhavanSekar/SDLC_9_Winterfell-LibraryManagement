@@ -28,5 +28,6 @@ The Library Management System is an application forassisting a librarian in mana
 ## CONCEPT USED:
 
 1.OOP Concept's like Inheritance, Encapsulation, and Polymorphism.
+
 2.File Handling.
 
