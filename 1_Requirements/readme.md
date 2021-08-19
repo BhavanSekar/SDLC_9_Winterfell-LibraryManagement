@@ -43,5 +43,5 @@ The Library Management System is an application for assisting a librarian in man
 
 2.File Handling.
 
-![WH](https://github.com/BhavanSekar/MiniProject-LTTS/blob/master/Images%26PDFs/Embed.PNG)
+![WH](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/Images/5w1h.PNG)
 
