@@ -1,5 +1,7 @@
 # Requirements
+
 ## Introduction
+
 System is mainly to provide automation to the library. The categories of users provided are :
 
 **Librarian**: Can view, search, issue and modify the information about any member.
@@ -35,7 +37,7 @@ The main features of this application includes
 
 The Library Management System is an application forassisting a librarian in managing a book library in a university. The system would provide basic set of features to add/update members, add/update books, and manage check in specifications for the systems based on the client’s statement of need.
 
-## CONCEPT USED:
+## Concept used
 
 1.OOP Concept's like Inheritance, Encapsulation, and Polymorphism.
 
