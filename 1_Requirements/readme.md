@@ -37,21 +37,19 @@ The main features of this application includes
 
 The Library Management System is an application for assisting a librarian in managing a book library in a university. The system would provide basic set of features to add/update members, add/update books, and manage check in specifications for the systems based on the client’s statement of need.
 
+## 5W and 1H 
+
+![WH](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/5_Images/5w%201h%20report.PNG)
+
+## SWOT Analysis
+
+![SWOT Analysis Template 03 - TemplateLab com](https://user-images.githubusercontent.com/67951541/130201901-4abd2038-ffaa-41a1-b4f7-ae9732a4ac2f.png)
+
 ## Concept used
 
 1.OOP Concept's like Inheritance, Encapsulation, and Polymorphism.
 
 2.File Handling.
-
-## 5W 1H report
-
-![WH](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/5_Images/5w%201h%20report.PNG)
-
-## SWOT
-![swot](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/Images/SWOT.jpg)
-
-## SWOT Analysis
-![SWOT Analysis Template 03 - TemplateLab com](https://user-images.githubusercontent.com/67951541/130201901-4abd2038-ffaa-41a1-b4f7-ae9732a4ac2f.png)
 
 
 
