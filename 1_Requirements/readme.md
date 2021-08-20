@@ -51,5 +51,23 @@ The Library Management System is an application for assisting a librarian in man
 
 2.File Handling.
 
+# Detail requirements
+
+## High Level Requirements: 
+
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | Librarian/Student shall be able to view the book list| Techincal | Implemented |
+| HR02 | Librarian/Student shall be able to search for a book| Techincal | Implemented |
+| HR03 | Librarian  shall be able to Modify/Add book| Techincal | Implemented |
+| HR04 | Librarian  shall be able to issue the book| Techincal | Implemented |
+| HR05 | Librarian  shall be able to change the password| Techincal | Implemented |
+
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 |  | HR01 | Implemented |
+
 
 
