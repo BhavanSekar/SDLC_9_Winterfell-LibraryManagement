@@ -21,8 +21,6 @@
 | L_03    | Search book       | Librarian or student clicks search book       | Book will appear        |   SUCCESS      | Scenario based |
 | L_04    | Delete book       | Librarian clicks delete book                  | Book gets deleted       |   SUCCESS      | Scenario based |
 | L_05    | Issue book        | Librarian clicks issue book                   | Book will be issued     |   SUCCESS      | Scenario based |
-| L_06    | Main menu         | Librarian or student clicks main menu         | Main menu will appear   |   SUCCESS      | Scenario based |
-| L_07    | Change Password   | Librarian clicks change password option       | Password will change    |   SUCCESS      | Scenario based |
-| L_08    | Close Application | Librarian or student clicks close application | Application gets closed |   SUCCESS      | Scenario based |
+
 
 
