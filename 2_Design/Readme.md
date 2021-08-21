@@ -33,8 +33,6 @@
     ## High Level Design
 ![image](https://user-images.githubusercontent.com/69230664/124642199-33851400-dead-11eb-8b47-92e8404dc6fe.png)
     
-
-
 • Process-flow Design :Structural and Behavioural Diagram
 ![image](https://user-images.githubusercontent.com/69230664/124633488-f2880200-dea2-11eb-9f63-fe622214ef96.png)
 
