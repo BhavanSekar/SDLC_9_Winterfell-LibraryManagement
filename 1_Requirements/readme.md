@@ -27,11 +27,11 @@ System is mainly to provide automation to the library. The categories of users p
 
 The main features of this application includes
 
--> Faster retrieval of information
+- Faster retrieval of information
 
--> Reduced workload of the library staff
+- Reduced workload of the library staff
 
--> All details of the book will be available on a click
+- All details of the book will be available on a click
 
 ## Cost and Features with Time
 In order to determine the cost to develop library management system, a few aspects are to be considered first:
