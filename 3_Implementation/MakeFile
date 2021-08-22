@@ -1,0 +1,5 @@
+///
+all:
+
+	gcc -Wall addbook.c boolfunction.c delete.c init.c login.c main.c menu.c search.c var.c vbook.c welcome.c -o implement
+///
