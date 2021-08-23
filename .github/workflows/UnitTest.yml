@@ -2,9 +2,9 @@ name: Unit Testing - Unity
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make test -C / UnitTesting
-      run: make test -C / UnitTesting
+    - name: make test
+      run: make test -C UnitTesting/
