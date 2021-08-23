@@ -19,7 +19,7 @@
 **On Linux**
 
 1.Type folowing commands in terminal :-
-  
+   
    * gcc -v
 
    * sudo apt-get update
@@ -30,17 +30,17 @@
 
 3.Run the following command :-
 
-  * make
-  * make run
+   * make
+   * make run
 
 **On Windows**
 
-1. Follow this tutorial to install gcc compiler to your windows machine.
+1.Follow this tutorial to install gcc compiler to your windows machine.
 
-2. Open the project Implementation directory inside command prompt.
+2.Open the project Implementation directory inside command prompt.
 
-3. Run the following commands inside command prompt
+3.Run the following commands inside command prompt
 
-  * make
-  * make run
+   * make
+   * make run
 
