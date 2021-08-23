@@ -14,3 +14,31 @@
 | 4_Test_plan      | Documents with test plans                     |
 | Unit testing     | Documents for testing code                    |
 
+## How to Run
+
+- On Linux
+Type folowing commands in terminal :-
+
+gcc -v
+
+sudo apt-get update
+
+sudo apt-get install build-essential gdb
+
+Open the terminal in Implementation folder.
+
+Run the following command :-
+
+make
+make run
+
+- On Windows
+Follow this tutorial to install gcc compiler to your windows machine.
+
+Open the project Implementation directory inside command prompt.
+
+Run the following commands inside command prompt
+
+make
+make run
+
