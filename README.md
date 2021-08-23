@@ -17,6 +17,7 @@
 ## How to Run
 
 **On Linux**
+
 Type folowing commands in terminal :-
 
 * gcc -v
@@ -33,6 +34,7 @@ Run the following command :-
 * make run
 
 **On Windows**
+
 Follow this tutorial to install gcc compiler to your windows machine.
 
 Open the project Implementation directory inside command prompt.
