@@ -40,9 +40,9 @@
 
  ![image](https://user-images.githubusercontent.com/69230664/124647078-1ce1bb80-deb3-11eb-9e02-0e8794b65858.png)
  
- • Process-flow Design:
+ ## Process-flow Design:
  
- Structural and Behavioural Diagram
+### Structural and Behavioural Diagram
  
 ![image](https://user-images.githubusercontent.com/69230664/124633784-4397f600-dea3-11eb-9989-55eff0223957.png)
 
