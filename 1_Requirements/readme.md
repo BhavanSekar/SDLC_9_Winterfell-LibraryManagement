@@ -2,30 +2,19 @@
 
 ## Introduction
 
-System is mainly to provide automation to the library. The categories of users provided are :
+• Searching for a book in a real large library is a very tedious process and keeping manual method of tracking book transactions is even more tedious. So through this program we     have come up with a solution which can ease these tasks by implementing a “C program”.In this program we as a user can perform adding, searching the books and more importantly     displaying the information of the books in the library.
 
-**Librarian**: Can view, search, issue and modify the information about any member.
+•	The library management is a project that manages and stores books information electronically according to students needs.The system helps both students and library manager to     keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
 
-**Student**: Can view, search and open the membership account of their own. 
+## Research
 
-### SUB-MENU for Librarian:
-* View BookList
-* Search for a Book
-* Modify/Add Book
-* Issue Book
-* Go to main menu
-* Change Password
-* Close Application
-
-### SUB-MENU for Student:
-* View BookList
-* Search for a Book
-* Go to main menu
-* Close Application
+•	The number of students studying in a school or a university are much more than one can think of keeping a track of records for the students. Most of the Library Management         system consists of operations such as searching the books, displaying the information of books. 
 
 ## Features of our system
 
 The main features of this application includes
+
+- Simple & Easy to Use
 
 - Faster retrieval of information
 
@@ -34,6 +23,7 @@ The main features of this application includes
 - All details of the book will be available on a click
 
 ## Cost and Features with Time
+
 In order to determine the cost to develop library management system, a few aspects are to be considered first:
 
 •	Size of the App: More the features, more the cost.
@@ -44,7 +34,7 @@ In order to determine the cost to develop library management system, a few aspec
 
 ## Defining our system
 
-The Library Management System is an application for assisting a librarian in managing a book library in a university. The system would provide basic set of features to add/update members, add/update books, and manage check in specifications for the systems based on the client’s statement of need.
+The Library Management System is an application for assisting a librarian in managing a book library in a university. The system would provide basic set of features to add books,user can delete the books from the list and searching the books, displaying the information of books. 
 
 ## 5W and 1H 
 
@@ -66,22 +56,23 @@ The Library Management System is an application for assisting a librarian in man
 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | Librarian/Student shall be able to view the book list| Techincal | Implemented |
-| HR02 | Librarian/Student shall be able to search for a book| Techincal | Implemented |
-| HR03 | Librarian  shall be able to Modify/Add book| Techincal | Implemented |
-| HR04 | Librarian  shall be able to issue the book| Techincal | Implemented |
-| HR05 | Librarian  shall be able to change the password| Techincal | Implemented |
+| HR01 | User shall be able to view the book list| Techincal | Implemented |
+| HR02 | User shall be able to search for a book| Techincal | Implemented |
+| HR03 | User shall be able to Add book| Techincal | Implemented |
+| HR04 | User shall be able to Delete the book| Techincal | Implemented |
+| HR05 | User shall be able to change the password| Techincal | Implemented |
 
 ##  Low level Requirements:
  
 | ID | Description |HLR ID| Status (Implemented/Future) |
 | ------ | --------- | ----- |----|
-|LR01|  Librarian shall be able to add a new books with details like name of the book, name of the author , number of pages and cost of the book |HR01| Implemented|
-|LR02|  Librarian shall be able to display the all books present in the library all with the details like name of the book, name of the author ,number of pages and cost of the book |HR02|Implemented|
-|LR03|  Librarian/Student shall be able to search the book by its name if that book is not available then display the menu to chose any other option |HR03 |Implemented|
-|LR04| Librarian/Student be able to search the book by its authors name if that book is not available then display the menu to chose any other option |HR02 |Implemented|
-|LR05| Libraran shall be able to issue and modify the information about any member |HR03,HR04| Implemented|
-|LR06|Librarian/Student shall be able to exit from the program if no option is needed to perform |HR01 ,HR02, HR03, HR04,HR05| Implemented|
+|LR01|  User shall be able to add a new books with details like name of the book, name of the author and username who aadded the book and date when book added |HR01| Implemented|
+|LR02|  User shall be able to display the all books present in the library all with the details like name of the book, name of the author |HR02|Implemented|
+|LR03|  User shall be able to search the book by its name if that book is not available then display the menu to chose any other option |HR03 |Implemented|
+|LR04|  User be able to search the book by its authors name if that book is not available then display the menu to chose any other option |HR02 |Implemented|
+|LR05|  User shall be able to delete the book from the list |HR04| Implemented|
+|LR06|  User shall be able to change the username and update the password |HR05| Implemented|
+|LR07|  User shall be able to exit from the program if no option is needed to perform |HR01 ,HR02, HR03, HR04,HR05| Implemented|
 
 
 
