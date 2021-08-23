@@ -41,6 +41,6 @@
 
 3. Run the following commands inside command prompt
 
-    * make
-    * make run
+  * make
+  * make run
 
