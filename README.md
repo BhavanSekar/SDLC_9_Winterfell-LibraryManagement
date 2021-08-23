@@ -16,31 +16,31 @@
 
 ## How to Run
 
-**On Linux**
+- **On Linux**
 
-Type folowing commands in terminal :-
+  1. Type folowing commands in terminal :-
+  
+    * gcc -v
 
-* gcc -v
+    * sudo apt-get update
 
-* sudo apt-get update
+    * sudo apt-get install build-essential gdb
 
-* sudo apt-get install build-essential gdb
+  2. Open the terminal in Implementation folder.
 
-Open the terminal in Implementation folder.
+  3. Run the following command :-
 
-Run the following command :-
+      * make
+      * make run
 
-* make
-* make run
+- **On Windows**
 
-**On Windows**
+  1. Follow this tutorial to install gcc compiler to your windows machine.
 
-Follow this tutorial to install gcc compiler to your windows machine.
+  2. Open the project Implementation directory inside command prompt.
 
-Open the project Implementation directory inside command prompt.
+  3. Run the following commands inside command prompt
 
-Run the following commands inside command prompt
-
-* make
-* make run
+      * make
+      * make run
 
