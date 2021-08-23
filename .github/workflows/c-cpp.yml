@@ -1,4 +1,5 @@
-name: C/C++ CI
+
+name: Buildandtest
 
 on:
   push:
@@ -13,11 +14,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: make run
+      run: make run -C /
