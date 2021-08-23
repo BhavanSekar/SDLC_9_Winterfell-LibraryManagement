@@ -4,6 +4,7 @@
 |-------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Code quality score](https://www.code-inspector.com/project/24985/score/svg) | ![Code Grade](https://www.code-inspector.com/project/24985/status/svg) | ![Buildandtest](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/c-cpp.yml/badge.svg) | ![Contribution Check - Git Inspector](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/git%20-inspector.yml/badge.svg) |
 
+
 ## Folder Structure
 
 | Folder           | Description                                   |
@@ -13,6 +14,16 @@
 | 3_Implementation | All implemented code                          |
 | 4_Test_plan      | Documents with test plans                     |
 | Unit testing     | Documents for testing code                    |
+
+## Features of our system
+
+The main features of this application includes
+
+   * Faster retrieval of information
+
+   * Reduced workload of the library staff
+
+   * All details of the book will be available on a click
 
 ## How to Run
 
