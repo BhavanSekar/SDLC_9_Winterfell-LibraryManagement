@@ -1,14 +1,16 @@
-### BASIC SYSTEM DESIGN
+### Architecture daigram  Diagram
 
-<img width="521" alt="L1" src="https://user-images.githubusercontent.com/67961861/130226988-a1789095-3a1c-4473-88c3-6a20cb601000.PNG">
+
+
+![ArchitectDesign](https://user-images.githubusercontent.com/86191206/130478854-99952b6f-5a63-4baa-b7c0-3f8515af832b.png)
+
+
 
 ### Usecase Diagram
 
 ![](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/blob/main/2_Design/Use%20Case%20Diagram.PNG)
 
-## LEVEL 1
 
-<img width="368" alt="L2" src="https://user-images.githubusercontent.com/67961861/130227624-75b968f9-3940-4ac3-9264-8adc1dcee748.PNG">
 
 *FUNCTION 1*
 
