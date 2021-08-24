@@ -64,15 +64,27 @@ The Library Management System is an application for assisting a librarian in man
 
 ##  Low level Requirements:
  
-| ID | Description |HLR ID| Status (Implemented/Future) |
+| ID | Description |Category| Status (Implemented/Future) |
 | ------ | --------- | ----- |----|
-|LR01|  User shall be able to add a new books with details like name of the book, name of the author and username who aadded the book and date when book added |HR01| Implemented|
-|LR02|  User shall be able to display the all books present in the library all with the details like name of the book, name of the author |HR02|Implemented|
-|LR03|  User shall be able to search the book by its name if that book is not available then display the menu to chose any other option |HR03 |Implemented|
-|LR04|  User be able to search the book by its authors name if that book is not available then display the menu to chose any other option |HR02 |Implemented|
-|LR05|  User shall be able to delete the book from the list |HR04| Implemented|
-|LR06|  User shall be able to change the username and update the password |HR05| Implemented|
-|LR07|  User shall be able to exit from the program if no option is needed to perform |HR01 ,HR02, HR03, HR04,HR05| Implemented|
+|LR01|  User shall be able to add a new books with details like name of the book, name of the author and username who aadded the book and date when book added |Techincal| Implemented|
+|LR02|  User shall be able to display the all books present in the library all with the details like name of the book, name of the author |Techincal|Implemented|
+|LR03|  User shall be able to search the book by its name if that book is not available then display the menu to chose any other option |Techincal|Implemented|
+|LR04|  User shall be able to Search for a book by its ID and view information such as whether the book has been issued or not. If the status is issued when is the due date, the    member who issued the book|Technical|Implemented|
+|LR05|  User shall be able  to update the status of a book. If a book was issued or renewed changing the due date as well as status as issued or renewed                            respectively|Technical|Implemented|
+|LR06|  User be able to search the book by its authors name if that book is not available then display the menu to chose any other option |Techincal |Implemented|
+|LR07|  User shall be able to delete the book from the list |Techincal| Implemented|
+|LR08|  User shall be able to change the username and update the password |Techincal| Implemented|
+|LR09|  User shall be able to exit from the program if no option is needed to perform |Techincal| Implemented|
+
+
+
+
+
+
+
+
+
+
 
 
 
