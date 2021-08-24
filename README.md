@@ -20,19 +20,18 @@
 ## Contributors List and Summary
 
 
-| PS No    | Name               | Contribution                                       | Issuess Raised | Issues Resolved |
-|----------|--------------------|----------------------------------------------------|----------------|-----------------|
-| 99005702 | Vanshika Ujjain    | Requirements and welcome function                  | Nil            | Nil             |
-| 99005707 | Rushika Dhakulkar  | Design and search function                         | Nil            | Nil             |
-| 99005715 | Bhavan Sekar       | Requirements, menu function, testing and workflow  | Nil            | Nil             |
-| 99005727 | Karan              | Requirements, init function, makefile and testplan | Nil            | Nil             |
-| 99005733 | Mineri Bhange      | Design, vbook function and workflow                | Nil            | Nil             |
-| 99005738 | Rahul Ashok Bomble | Addbook function and testing                       | Nil            | Nil             |
-| 99005750 | Soundarya Gouli    | Design and delete function                         | Nil            | Nil             |
-| 99005751 | Anushka Singru     | Design, boolfunction and main function             | Nil            | Nil             |
-| 99005755 | Sumedh Rao         | Login function, workflow and documentation         | Nil            | Nil             |
-| 99005761 | Madhumetha         | Requirements, var function, testplan and workflow  | Nil            | Nil             |
-
+| PS No    | Name               | Contribution                                       | Status         | 
+|----------|--------------------|----------------------------------------------------|----------------|
+| 99005702 | Vanshika Ujjain    | Requirements and welcome function                  | Implemented    | 
+| 99005707 | Rushika Dhakulkar  | Design and search function                         | Implemented    | 
+| 99005715 | Bhavan Sekar       | Requirements, menu function, testing and workflow  | Implemented    | 
+| 99005727 | Karan              | Requirements, init function, makefile and testplan | Implemented    | 
+| 99005733 | Mineri Bhange      | Design, vbook function and workflow                | Implemented    | 
+| 99005738 | Rahul Ashok Bomble | Addbook function and testing                       | Implemented    | 
+| 99005750 | Soundarya Gouli    | Design and delete function                         | Implemented    | 
+| 99005751 | Anushka Singru     | Design, boolfunction and main function             | Implemented    | 
+| 99005755 | Sumedh Rao         | Login function, workflow and documentation         | Implemented    | 
+| 99005761 | Madhumetha         | Requirements, var function, testplan and workflow  | Implemented    | 
 
 ## Features of our system
 
