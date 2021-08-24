@@ -15,11 +15,11 @@
 
 | Test ID |    Description    |                    Exp I/P                    |         Exp O/P         |    Actual O/P  |  Type Of Test  |
 |:-------:|:-----------------:|:---------------------------------------------:|:-----------------------:|:--------------:|:--------------:|
-| L_01    | To Add the book          |  Integer '1' from the user             | Book gets added         |   SUCCESS      | Requirement based |
-| L_02    | To Search the book    |  Integer '2' from the user     |  Book will appear  |   SUCCESS      | Requirement based |
-| L_03    | To View the book list    |  Integer '3' from the user       | Booklist will be shown       |   SUCCESS      | Requirement based |
-| L_04    | To Delete the book       |  Integer '4' from the user                  | Book gets deleted       |   SUCCESS      | Requirement based |
-| L_05    | To update the password        |  Integer '5' from the user               | Book will be issued     |   SUCCESS      | Requirement based |
+| L_01    | To Add the book          |  Integer '1' from the user <br> book id to be add <br> Book name to be add<br>author name to be add <br> Student name who going to add the book <br> date to be book added| Book gets added successfully  | SUCCESS | Requirement based |
+| L_02    | To Search the book    |  Integer '2' from the user <br> Name of the book to be search | Displays the wanted book details  |   SUCCESS      | Requirement based |
+| L_03    | To View the book list    |  Integer '3' from the user       | Displays the recored of all the book list       |   SUCCESS      | Requirement based |
+| L_04    | To Delete the book       |  Integer '4' from the user <br> Id of the book to be delete | Book's data deleted susccessfully       |   SUCCESS      | Requirement based |
+| L_05    | To update the password        |  Integer '5' from the user <br> Enter the new username and password | Password Updated Susccessfully |   SUCCESS  | Requirement based |
 
 
 
