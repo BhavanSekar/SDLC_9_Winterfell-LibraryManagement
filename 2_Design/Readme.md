@@ -46,4 +46,9 @@
  
 ![image](https://user-images.githubusercontent.com/69230664/124633784-4397f600-dea3-11eb-9989-55eff0223957.png)
 
+### Activity Diagram
+
+![ActivityDesign](https://user-images.githubusercontent.com/86191206/130581440-769c04e7-dbf5-4151-a838-49f93f0c84b5.png)
+
+
 
