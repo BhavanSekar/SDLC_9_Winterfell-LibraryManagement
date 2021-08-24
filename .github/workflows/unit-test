@@ -1,4 +1,4 @@
-name: Unit Testing
+name: Unit testing -Unity
 
 on:
   push:
@@ -7,11 +7,14 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_Implementation/ test/testt.c
+    - name: Install Cunit
+      run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
+    - name: make test
+      run:  make test -C 3_implementation/
+
