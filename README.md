@@ -5,14 +5,10 @@ It provides an online interface to allow visitors to view or reserve library res
 
 
 
+| Code Quality                                                                  | Code Grade                                                             | Cppcheck - Build                                                                                                          | Git Inspector                                                                                                                                              | Codacy                                                                                       | Unit Testing                                                                                                             |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| ![Code quality score](https://www.code-inspector.com/project/24985/score/svg) | ![Code Grade](https://www.code-inspector.com/project/24985/status/svg) | ![Buildandtest](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/c-cpp.yml/badge.svg) | ![Contribution Check - Git Inspector](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/git%20-inspector.yml/badge.svg) | ![Codacy Badge](https://app.codacy.com/project/badge/Grade/34d75bcc11f7420d966740de35b4265e) | ![unit testing](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/unit.yml/badge.svg) |
 
-
-
-
-| Code Quality| Code Grade | Cppcheck    |Git Inspector | Codacy |  Unit Testing |  
-|-------------|-------------|-------------|-------------|-------------|-------------|
-
-| ![Code quality score](https://www.code-inspector.com/project/24985/score/svg) |![Code Grade](https://www.code-inspector.com/project/24985/status/svg) |![Buildandtest](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/c-cpp.yml/badge.svg) |![Contribution Check - Git Inspector](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/git%20-inspector.yml/badge.svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/34d75bcc11f7420d966740de35b4265e)](https://www.codacy.com/gh/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BhavanSekar/SDLC_9_Winterfell-LibraryManagement&amp;utm_campaign=Badge_Grade)|[![unit testing](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/unit.yml/badge.svg)](https://github.com/BhavanSekar/SDLC_9_Winterfell-LibraryManagement/actions/workflows/unit.yml)|
 
 
 ## Folder Structure
